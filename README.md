@@ -8,3 +8,5 @@ This Project shows the Visualization of the data of the Indian Premier League (I
 ### Technology: Data Analysis
 
 ### Libraries: Numpy, Pandas, Matplotlib, Seaborn
+
+### Data: IPL 2008-2020.csv 
